@@ -455,3 +455,34 @@ a {
   font-size: 16px;
   line-height: 18px;
 }
+
+.footer {
+  padding: 0 0 50px;
+}
+
+.footer__box {
+  padding: 10px 20px;
+
+}
+
+.footer__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer__list p {
+  font-size: 12px;
+  text-align: center;
+}
+
+.footer__item {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
