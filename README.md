@@ -1,1 +1,1 @@
-# [rsschool](https://Abdumajidaliev97ur.github.io/rsschool-cv/cv)
+# [rsschool](https://Abdumajidaliev97ur.github.io/rsschool-cv/)
